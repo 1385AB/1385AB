@@ -8,7 +8,7 @@ Open `index.html` in a browser, or serve this folder with any static file server
 
 ## Publish with GitHub Pages
 
-GitHub Pages is configured to deploy from the `1385ab-personal-website` branch and `/ (root)` folder. The site URL is <https://1385ab.github.io/1385AB/>.
+GitHub Actions deploys the site from the `1385ab-personal-website` branch. The site URL is <https://1385ab.github.io/1385AB/>.
 
 ## Personalize
 
